@@ -14,43 +14,61 @@
 
 ---
 
-## 🔧 Tech Stack  
+## 🔧 Tech Stack
 
+### 🗄️ Databases & Data Warehousing  
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Snowflake SQL](https://img.shields.io/badge/Snowflake_SQL-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
+### ☁️ Cloud & Storage  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=azure-data-factory&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=azure-data-factory&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![Snowflake SQL](https://img.shields.io/badge/Snowflake_SQL-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=databricks&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazon-s3&logoColor=white)  
+
+### 📊 Data Visualization  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+
+### 💻 Collaboration Tool  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Featured Projects (Check my Git repositories for more projects)
 
-### 🔹 [Snowflake Data Engineering End-to-End Project](https://github.com/debashisdash1999/snowflake_data_engineering_end_to_end_project)  
-Enterprise-scale project with real-time ingestion, CDC via **Streams**, automation using **Tasks**, data quality pipelines, and analytics for retail domain.  
+Here are some of my hands-on projects that show what I can build:
 
-### 🔹 [Snowflake – Handling Semi/Unstructured Data](https://github.com/debashisdash1999/snowflake_proj5_handling_semi_unstructured_data)  
-Loaded JSON data into Snowflake (using **VARIANT, FLATTEN**), structured it, and queried for insights.  
+- **[snowflake_proj5_handling_semi_unstructured_data](https://github.com/debashisdash1999/snowflake_proj5_handling_semi_unstructured_data)**  
+  Loading JSON/semi-structured data into Snowflake (using VARIANT, FLATTEN), extracting structured values, and querying.  
 
-### 🔹 [Snowpipe – Real-Time Data Loading](https://github.com/debashisdash1999/snowflake_proj6_snowpipe)  
-End-to-end setup for **automated ingestion** from cloud storage into Snowflake.  
+- **[snowflake_proj6_snowpipe](https://github.com/debashisdash1999/snowflake_proj6_snowpipe)**  
+  End-to-end setup for automated data ingestion using Snowpipe.  
 
-### 🔹 [Task Scheduling in Snowflake](https://github.com/debashisdash1999/snowflake_proj7_tasks_scheduling)  
-Automated workflows with **Tasks**, ensuring dependencies and scheduling for data pipelines.  
+- **[snowflake_proj7_tasks_scheduling](https://github.com/debashisdash1999/snowflake_proj7_tasks_scheduling)**  
+  Automating recurring workflows and downstream tasks in Snowflake with task scheduling.  
 
-### 🔹 [Streams – Change Data Capture](https://github.com/debashisdash1999/snowflake_proj12_streams)  
-Implemented **CDC** (insert/update/delete tracking) and integrated with S3 loads.  
+- **[snowflake_proj12_streams](https://github.com/debashisdash1999/snowflake_proj12_streams)**  
+  Implementing Streams for Change Data Capture (INSERT, UPDATE, DELETE), plus integration with S3 data loads.  
 
-### 🔹 [SQL Retail Sales Project](https://github.com/debashisdash1999/SQL_retail_sale_project)  
-Retail sales data analysis with **KPIs, trends, aggregations, customer insights** using SQL.  
+- **[snowflake_proj15_aws_load_handling_json](https://github.com/debashisdash1999/snowflake_proj15_aws_load_handling_json)**  
+  Handling semi-structured JSON data loading from AWS S3 into Snowflake, with parsing and transformation.  
+
+- **[snowflake_swiggy_end_to_end_data_pipeline_project](https://github.com/debashisdash1999/snowflake_swiggy_end_to_end_data_pipeline_project)**  
+  End-to-end Swiggy-like data engineering pipeline: staging, cleaning, consumption layers with Streams, Tasks, and SCD-2 implementation in dimensions.  
+
+- **[snowflake_data_engineering_end_to_end_project](https://github.com/debashisdash1999/snowflake_data_engineering_end_to_end_project)**  
+  Enterprise-scale end-to-end project: real-time ingestion, CDC via Streams, Tasks automation, data quality pipelines, and Gold layer analytics for retail domain.  
+
+- **[SQL_retail_sale_project](https://github.com/debashisdash1999/SQL_retail_sale_project)**  
+  Retail sales data exploration & insights: data cleaning, aggregation, trend analysis, KPIs, etc., using PostgreSQL / SQL.  
+
+- **[power_bi_sports_by_skills_report](https://github.com/debashisdash1999/power_bi_sports_by_skills_report)**  
+  Interactive Power BI report analyzing player skills and performance across sports with dynamic KPIs and dashboards.  
 
 ---
 
@@ -63,38 +81,4 @@ Retail sales data analysis with **KPIs, trends, aggregations, customer insights*
 
 ✨ *Always learning, always building — data tells the story, I make it clear.*  
 
-
----
-
-## 📂 Featured Projects  
-
-### 🔹 [Snowflake Data Engineering End-to-End Project](https://github.com/debashisdash1999/snowflake_data_engineering_end_to_end_project)  
-Enterprise-scale project with real-time ingestion, CDC via **Streams**, automation using **Tasks**, data quality pipelines, and analytics for retail domain.  
-
-### 🔹 [Snowflake – Handling Semi/Unstructured Data](https://github.com/debashisdash1999/snowflake_proj5_handling_semi_unstructured_data)  
-Loaded JSON data into Snowflake (using **VARIANT, FLATTEN**), structured it, and queried for insights.  
-
-### 🔹 [Snowpipe – Real-Time Data Loading](https://github.com/debashisdash1999/snowflake_proj6_snowpipe)  
-End-to-end setup for **automated ingestion** from cloud storage into Snowflake.  
-
-### 🔹 [Task Scheduling in Snowflake](https://github.com/debashisdash1999/snowflake_proj7_tasks_scheduling)  
-Automated workflows with **Tasks**, ensuring dependencies and scheduling for data pipelines.  
-
-### 🔹 [Streams – Change Data Capture](https://github.com/debashisdash1999/snowflake_proj12_streams)  
-Implemented **CDC** (insert/update/delete tracking) and integrated with S3 loads.  
-
-### 🔹 [SQL Retail Sales Project](https://github.com/debashisdash1999/SQL_retail_sale_project)  
-Retail sales data analysis with **KPIs, trends, aggregations, customer insights** using SQL.  
-
----
-
-
-## 📫 Contact Me  
-
-- 📧 Email: **debashisdash1999@gmail.com**  
-- 💼 LinkedIn: [Choudhury Debashis Dash](https://www.linkedin.com/in/choudhury-debashis-dash-574661177)  
-
----
-
-✨ *Always learning, always building — data tells the story, I make it clear.*  
 
