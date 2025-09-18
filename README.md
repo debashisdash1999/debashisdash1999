@@ -1,33 +1,7 @@
 # 👋 Hi, I’m Choudhury Debashis Dash  
 
-💻 **Snowflake Data Engineer | SQL Developer | Data Analytics Enthusiast**  
-📍 Based in India | 🌎 Open to opportunities across India | ⏱ Immediately Available  
-
----
-
-## 🚀 About Me  
-
-- 3 years of experience in **Snowflake, SQL, ADF, ADLS, AWS S3, Power BI**  
-- Hands-on with **ETL/ELT workflows, Data Warehousing, Streams, Tasks, and Snowpipe**  
-- Skilled in **data visualization** using **Power BI**  
-- Passionate about solving data problems and building scalable pipelines  
-
----
-
-## 🔧 Tech Stack  
-
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=databricks&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 👋 Hi, I’m Choudhury Debashis Dash  
-
-💻 **Snowflake Data Engineer | SQL Developer | Data Analytics Enthusiast**  
-📍 Based in India | 🌎 Open to opportunities across India | ⏱ Immediately Available  
+💻 **Cloud Data Engineer | SQL Developer | Data Analytics Enthusiast**  
+📍 Based in India | 🌎 Open to opportunities across India and abroad | ⏱ Immediately Available  
 
 ---
 
