@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Choudhury Debashis Dash  
+# 🙏🏻Greetings, I’m Choudhury Debashis Dash  
 
 💻 **Cloud Data Engineer | SQL Developer | Data Analytics Enthusiast**  
 📍 Based in India | 🌎 Open to opportunities across India and abroad | ⏱ Immediately Available  
@@ -39,7 +39,7 @@
 
 ---
 
-## 📂 Featured Projects (Check my Git repositories for more projects)
+## 📂 Featured Projects (Check my full profile (Repositories) for all of the projects)
 
 Here are some of my hands-on projects that show what I can build:
 
