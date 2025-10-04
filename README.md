@@ -43,7 +43,7 @@
 
 ---
 
-## 📂 Featured Projects (Check my full profile (Repositories) for all of the projects)
+## 📂 Featured Projects {Check my full profile (Repositories) for all Data Engineering / Analysis / Visualisation projects}
 
 Here are some of my hands-on projects that show what I can build:
 
