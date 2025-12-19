@@ -10,7 +10,7 @@
 - 3 years of experience in **Snowflake, SQL, ADF, ADLS, AWS S3, Power BI**  
 - Hands-on with **ETL/ELT workflows, Data Warehousing, Streams, Tasks, and Snowpipe**  
 - Skilled in **data visualization** using **Power BI**
-- Familiar with Python basics (data types, loops, functions, simple programs).
+- Familiar with Python (data types, loops, functions, simple programs).
 - Passionate about solving data problems and building scalable pipelines  
 
 ---
