@@ -10,7 +10,7 @@
 - Working with **Snowflake, SQL, ADF, ADLS, AWS S3, and Power BI** on real-world data projects  
 - Building and experimenting with **ETL / ELT pipelines**, data warehousing concepts, and automation using **Streams, Tasks, and Snowpipe**  
 - Enjoy creating **Power BI dashboards** that turn raw data into clear insights  
-- Learning and using **Python (Pandas)** for basic data cleaning and CSV/Excel preprocessing  
+- Learning and using **Python (Pandas)** for data cleaning and CSV/Excel preprocessing  
 - Curious by nature and motivated by solving data problems and improving pipeline reliability  
 
 ---
