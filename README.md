@@ -4,6 +4,7 @@
 📍 India &nbsp;|&nbsp; 🌎 Open to roles across India and abroad &nbsp;|&nbsp; ⚡ Immediately Available 
 
 ---
+
 ## 🚀 What I Do
 
 I design and build data pipelines, cloud warehouses, and BI dashboards that help businesses move from raw data to reliable decisions.
@@ -20,29 +21,27 @@ My focus areas:
 
 ## 🔧 Tech Stack
 
-### 🗄️ Databases & Data Warehousing  
+### 🗄️ Data Warehousing & Databases
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Snowflake SQL](https://img.shields.io/badge/Snowflake_SQL-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ☁️ Cloud & Storage  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+### ☁️ Cloud & Storage
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=azure-data-factory&logoColor=white)
 ![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=azure-data-factory&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazon-s3&logoColor=white)  
+![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazon-s3&logoColor=white)
 
-### 📊 Data Visualization  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+### 📊 BI & Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 💻 Programming  
+### 💻 Programming & Data Processing
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 💻 Collaboration Tool  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+### 🤝 Collaboration
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -50,33 +49,148 @@ My focus areas:
 
 Here are some of my hands-on projects that show what I can build:
 
-- **[snowflake_proj5_handling_semi_unstructured_data](https://github.com/debashisdash1999/snowflake_proj5_handling_semi_unstructured_data)**  
-  Loading JSON/semi-structured data into Snowflake (using VARIANT, FLATTEN), extracting structured values, and querying.  
+### 🏗️ End-to-End Data Engineering
 
-- **[snowflake_proj6_snowpipe](https://github.com/debashisdash1999/snowflake_proj6_snowpipe)**  
-  End-to-end setup for automated data ingestion using Snowpipe.  
+---
 
-- **[snowflake_proj7_tasks_scheduling](https://github.com/debashisdash1999/snowflake_proj7_tasks_scheduling)**  
-  Automating recurring workflows and downstream tasks in Snowflake with task scheduling.  
+#### 🔷 [SQL Data Warehouse — End-to-End Project](https://github.com/debashisdash1999/end_to_end_sql_data_warehouse_prjct)
 
-- **[snowflake_proj12_streams](https://github.com/debashisdash1999/snowflake_proj12_streams)**  
-  Implementing Streams for Change Data Capture (INSERT, UPDATE, DELETE), plus integration with S3 data loads.  
+Full enterprise-style data warehouse built using Microsoft SQL Server, implementing a Bronze → Silver → Gold layered architecture with CRM and ERP source integration, stored procedure-based ETL, star schema modeling, and a Sales Data Mart with `dim_customers`, `dim_products`, and `fact_sales`.
 
-- **[snowflake_proj15_aws_load_handling_json](https://github.com/debashisdash1999/snowflake_proj15_aws_load_handling_json)**  
-  Handling semi-structured JSON data loading from AWS S3 into Snowflake, with parsing and transformation.  
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-Stored%20Procedures-grey?style=flat)
+![Star Schema](https://img.shields.io/badge/Modeling-Star%20Schema-blue?style=flat)
+![Bronze Silver Gold](https://img.shields.io/badge/Architecture-Bronze--Silver--Gold-orange?style=flat)
 
-- **[snowflake_swiggy_end_to_end_data_pipeline_project](https://github.com/debashisdash1999/snowflake_swiggy_end_to_end_data_pipeline_project)**  
-  End-to-end Swiggy-like data engineering pipeline: staging, cleaning, consumption layers with Streams, Tasks, and SCD-2 implementation in dimensions.  
+---
 
-- **[snowflake_data_engineering_end_to_end_project](https://github.com/debashisdash1999/snowflake_data_engineering_end_to_end_project)**  
-  Enterprise-scale end-to-end project: real-time ingestion, CDC via Streams, Tasks automation, data quality pipelines, and Gold layer analytics for retail domain.  
+#### 🔷 [Snowflake Swiggy — End-to-End Data Pipeline](https://github.com/debashisdash1999/snowflake_swiggy_end_to_end_data_pipeline_project)
 
-- **[SQL_retail_sale_project](https://github.com/debashisdash1999/SQL_retail_sale_project)**  
-  Retail sales data exploration & insights: data cleaning, aggregation, trend analysis, KPIs, etc., using PostgreSQL / SQL.  
+Production-style Snowflake pipeline modeled on a food delivery platform, covering initial & delta loads, CDC using Streams, SCD Type 2 dimensions, a star schema fact table at order-item granularity, data governance with Tags & Masking Policies, and full automation via Stored Procedures and Tasks.
 
-- **[power_bi_sports_by_skills_report](https://github.com/debashisdash1999/power_bi_sports_by_skills_report)**  
-  Interactive Power BI report analyzing player skills and performance across sports with dynamic KPIs and dashboards.  
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Streams](https://img.shields.io/badge/CDC-Streams-29B5E8?style=flat)
+![Tasks](https://img.shields.io/badge/Automation-Tasks-29B5E8?style=flat)
+![SCD2](https://img.shields.io/badge/Modeling-SCD%20Type%202-blue?style=flat)
+![Star Schema](https://img.shields.io/badge/Modeling-Star%20Schema-blue?style=flat)
+![Data Governance](https://img.shields.io/badge/Governance-Tags%20%26%20Masking-green?style=flat)
 
+---
+
+#### 🔷 [Snowflake Pacific Retail — End-to-End Project](https://github.com/debashisdash1999/snowflake_pacific_retail_end_to_end_project)
+
+Enterprise-scale retail analytics solution for a 5M+ customer ecommerce company spanning 15 countries. Built on Snowflake with ADLS as external stage, ingesting CSV, JSON, and Parquet data. Implements Bronze → Silver → Gold layers, CDC with Streams and Tasks, data quality validations via Stored Procedures, and Gold layer views for sales performance, customer segmentation, and product analytics.
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Streams](https://img.shields.io/badge/CDC-Streams-29B5E8?style=flat)
+![Tasks](https://img.shields.io/badge/Automation-Tasks-29B5E8?style=flat)
+![Parquet](https://img.shields.io/badge/Format-Parquet%20%7C%20JSON%20%7C%20CSV-grey?style=flat)
+![Bronze Silver Gold](https://img.shields.io/badge/Architecture-Bronze--Silver--Gold-orange?style=flat)
+
+---
+
+### ❄️ Snowflake Concept Projects
+
+---
+
+#### [Snowflake Streams & CDC](https://github.com/debashisdash1999/snowflake_proj12_streams)
+Change Data Capture implementation (INSERT / UPDATE / DELETE) using Snowflake Streams with AWS S3 integration.
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=flat&logo=amazon-s3&logoColor=white)
+![CDC](https://img.shields.io/badge/CDC-Streams-29B5E8?style=flat)
+
+---
+
+#### [Snowflake Snowpipe — Automated Ingestion](https://github.com/debashisdash1999/snowflake_proj6_snowpipe)
+End-to-end automated data ingestion pipeline using Snowpipe — setup, configuration, and event-based triggering.
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Snowpipe](https://img.shields.io/badge/Ingestion-Snowpipe-29B5E8?style=flat)
+
+---
+
+#### [Snowflake Semi-Structured Data Handling](https://github.com/debashisdash1999/snowflake_proj5_handling_semi_unstructured_data)
+Querying and extracting nested JSON data in Snowflake using VARIANT data type and FLATTEN function.
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![JSON](https://img.shields.io/badge/Format-JSON%20%7C%20Semi--Structured-grey?style=flat)
+![VARIANT](https://img.shields.io/badge/Feature-VARIANT%20%7C%20FLATTEN-29B5E8?style=flat)
+
+---
+
+### 🧹 SQL Projects
+
+---
+
+#### [SQL Data Cleaning Project](https://github.com/debashisdash1999/sql_data_cleaning_proj)
+Real-world SQL data cleaning — handling nulls, duplicates, standardization, and data type corrections.
+
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Focus-Data%20Cleaning-grey?style=flat)
+
+---
+
+#### [SQL Major League Baseball Analysis](https://github.com/debashisdash1999/sql_major_league_baseball_proj)
+Advanced SQL analytics on MLB player, team, and school data — window functions, aggregations, and performance insights.
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Analytics](https://img.shields.io/badge/Focus-Advanced%20SQL%20Analytics-grey?style=flat)
+
+---
+
+#### [SQL Restaurant Order Analysis](https://github.com/debashisdash1999/sql_restaurant_order_analysis)
+Analyzing restaurant menu and order data to surface popular dishes, pricing trends, and customer spending patterns.
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Analytics](https://img.shields.io/badge/Focus-Order%20Analysis-grey?style=flat)
+
+---
+
+### 🐍 Python — Data Cleaning Projects
+
+---
+
+#### [Python Data Cleaning — Airbnb Dataset](https://github.com/debashisdash1999/Data-Cleaning-with-Python-Pandas-Real-World-Airbnb-Dataset)
+Real-world Airbnb dataset cleaned using Pandas — handling missing values, outliers, type conversions, and column normalization.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Focus-Data%20Cleaning-grey?style=flat)
+
+---
+
+#### [Python Data Cleaning — Amazon Dataset](https://github.com/debashisdash1999/real-world-amazon-data-cleaning_pandas)
+Amazon product data cleaned and preprocessed using Pandas — structured for downstream analytics or ML use.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Focus-Data%20Cleaning-grey?style=flat)
+
+---
+
+### 📊 Power BI Reports
+
+---
+
+#### [Power BI — HR Data Analytics Report](https://github.com/debashisdash1999/Power_BI_HR_Data_Analytics_Report)
+Interactive HR dashboard covering employee headcount, attrition analysis, departmental performance, and workforce KPIs.
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![HR Analytics](https://img.shields.io/badge/Domain-HR%20Analytics-grey?style=flat)
+![Interactive](https://img.shields.io/badge/Type-Interactive%20Dashboard-blue?style=flat)
+
+---
+
+#### [Power BI — Personality Survey Report](https://github.com/debashisdash1999/Power_BI_Personality_Survey_Report)
+Visual analysis of personality survey data with dynamic slicers, trait distributions, and behavioral pattern breakdowns.
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Survey Analytics](https://img.shields.io/badge/Domain-Survey%20Analytics-grey?style=flat)
+![Interactive](https://img.shields.io/badge/Type-Interactive%20Report-blue?style=flat)
+
+---
 ---
 
 ## 📫 Contact Me  
