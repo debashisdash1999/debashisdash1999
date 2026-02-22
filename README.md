@@ -191,7 +191,6 @@ Visual analysis of personality survey data with dynamic slicers, trait distribut
 ![Interactive](https://img.shields.io/badge/Type-Interactive%20Report-blue?style=flat)
 
 ---
----
 
 ## 📫 Contact Me  
 
