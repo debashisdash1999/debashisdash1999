@@ -1,17 +1,20 @@
 # 🙏🏻Greetings, I’m Choudhury Debashis Dash  
 
-💻 **Cloud Data Engineer | SQL Developer | Data Analytics Enthusiast**  
-📍 Based in India | 🌎 Open to opportunities across India and abroad | ⏱ Immediately Available  
+💻 **Cloud Data Engineer | ETL / ELT Developer | Data Analytics Enthusiast**  
+📍 India &nbsp;|&nbsp; 🌎 Open to roles across India and abroad &nbsp;|&nbsp; ⚡ Immediately Available 
 
 ---
+## 🚀 What I Do
 
-## 🚀 About Me  
+I design and build data pipelines, cloud warehouses, and BI dashboards that help businesses move from raw data to reliable decisions.
 
-- Working with **Snowflake, SQL, ADF, ADLS, AWS S3, and Power BI** on real-world data projects  
-- Building and experimenting with **ETL / ELT pipelines**, data warehousing concepts, and automation using **Streams, Tasks, and Snowpipe**  
-- Enjoy creating **Power BI dashboards** that turn raw data into clear insights  
-- Learning and using **Python (Pandas)** for data cleaning and CSV/Excel preprocessing  
-- Curious by nature and motivated by solving data problems and improving pipeline reliability  
+Over 3 years, I've worked across two ends of the data stack — engineering pipelines in Snowflake for a real client project (Mercedes-Benz, USA & Canada) at Infosys, and owning the full BI function at Troy Consultancy where I built dashboards that teams actually used daily.
+
+My focus areas:
+- **ELT pipeline development** in Snowflake — from raw ingestion through Bronze → Silver → Gold layers
+- **Automation** using Snowpipe, Streams, and Tasks for CDC and scheduled workflows
+- **BI & reporting** with Power BI, connecting to SQL Server, Excel, and web sources
+- **Query & warehouse optimization** — I pay attention to compute costs and performance, not just making things work
 
 ---
 
@@ -20,9 +23,9 @@
 ### 🗄️ Databases & Data Warehousing  
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Snowflake SQL](https://img.shields.io/badge/Snowflake_SQL-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ☁️ Cloud & Storage  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -40,7 +43,6 @@
 
 ### 💻 Collaboration Tool  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-
 
 ---
 
