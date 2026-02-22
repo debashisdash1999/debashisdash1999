@@ -1,7 +1,7 @@
 # 🙏🏻Greetings, I’m Choudhury Debashis Dash  
 
 💻 **Cloud Data Engineer | ETL / ELT Developer | Data Analytics Enthusiast**  
-📍 India &nbsp;|&nbsp; 🌎 Open to roles across India and abroad &nbsp;|&nbsp; ⚡ Immediately Available 
+📍 India &nbsp;|&nbsp; 🌎 Open to roles across India and abroad (Remote) &nbsp;|&nbsp; ⚡ Immediately Available 
 
 ---
 
@@ -9,13 +9,13 @@
 
 I design and build data pipelines, cloud warehouses, and BI dashboards that help businesses move from raw data to reliable decisions.
 
-Over 3 years, I've worked across two ends of the data stack — engineering pipelines in Snowflake for a real client project (Mercedes-Benz, USA & Canada) at Infosys, and owning the full BI function at Troy Consultancy where I built dashboards that teams actually used daily.
+Over 3 years, I've worked across two ends of the data stack - engineering pipelines in Snowflake for a real client project (Mercedes-Benz, USA & Canada) at Infosys, and owning the full BI function at Troy Consultancy where I built dashboards that teams actually used daily.
 
 My focus areas:
-- **ELT pipeline development** in Snowflake — from raw ingestion through Bronze → Silver → Gold layers
+- **ELT pipeline development** in Snowflake - from raw ingestion through Bronze → Silver → Gold layers
 - **Automation** using Snowpipe, Streams, and Tasks for CDC and scheduled workflows
 - **BI & reporting** with Power BI, connecting to SQL Server, Excel, and web sources
-- **Query & warehouse optimization** — I pay attention to compute costs and performance, not just making things work
+- **Query & warehouse optimization** - I pay attention to compute costs and performance, not just making things work
 
 ---
 
