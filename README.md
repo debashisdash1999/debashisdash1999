@@ -3,6 +3,9 @@
 💻 **Cloud Data Engineer | ETL / ELT Developer | Data Analytics Enthusiast**  
 📍 India &nbsp;|&nbsp; 🌎 Open to roles across India and abroad (Remote) &nbsp;|&nbsp; ⚡ Immediately Available 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/choudhury-debashis-dash-574661177)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:debashisdash1999@gmail.com)
+
 ---
 
 ## 🚀 What I Do
