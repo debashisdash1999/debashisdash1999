@@ -1,10 +1,7 @@
 # 🙏🏻Greetings, I’m Choudhury Debashis Dash  
 
 💻 **Cloud Data Engineer | ETL / ELT Developer | Data Analytics Enthusiast**  
-
-📍 India &nbsp;|&nbsp; 🌎 Open to roles across India and abroad (Remote) &nbsp;|&nbsp; ⚡ Immediately Available 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/choudhury-debashis-dash-574661177)
+📍 India &nbsp;|&nbsp; 🌎 Open to roles across India (OnSite & Remote) and abroad (Remote) &nbsp;|&nbsp; ⚡ Immediately Available 
 
 ---
 
