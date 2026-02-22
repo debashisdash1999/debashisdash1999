@@ -47,7 +47,7 @@ My focus areas:
 
 ## 📂 Featured Projects {Check my full profile (Repositories) for all projects}
 
-Here are some of my hands-on projects that show what I can build:
+---
 
 ### 🏗️ End-to-End Data Engineering
 
@@ -135,7 +135,7 @@ Real-world SQL data cleaning — handling nulls, duplicates, standardization, an
 #### [SQL Major League Baseball Analysis](https://github.com/debashisdash1999/sql_major_league_baseball_proj)
 Advanced SQL analytics on MLB player, team, and school data — window functions, aggregations, and performance insights.
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white)
 ![Analytics](https://img.shields.io/badge/Focus-Advanced%20SQL%20Analytics-grey?style=flat)
 
 ---
@@ -143,7 +143,7 @@ Advanced SQL analytics on MLB player, team, and school data — window functions
 #### [SQL Restaurant Order Analysis](https://github.com/debashisdash1999/sql_restaurant_order_analysis)
 Analyzing restaurant menu and order data to surface popular dishes, pricing trends, and customer spending patterns.
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white)
 ![Analytics](https://img.shields.io/badge/Focus-Order%20Analysis-grey?style=flat)
 
 ---
