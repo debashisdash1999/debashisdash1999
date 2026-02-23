@@ -79,7 +79,7 @@ Production-style Snowflake pipeline modeled on a food delivery platform, coverin
 
 #### 🔷 [Snowflake Pacific Retail — End-to-End Project](https://github.com/debashisdash1999/snowflake_pacific_retail_end_to_end_project)
 
-Enterprise-scale retail analytics solution for a 5M+ customer ecommerce company spanning 15 countries. Built on Snowflake with ADLS as external stage, ingesting CSV, JSON, and Parquet data. Implements Bronze → Silver → Gold layers, CDC with Streams and Tasks, data quality validations via Stored Procedures, and Gold layer views for sales performance, customer segmentation, and product analytics.
+Enterprise-scale retail analytics solution for a 5M+ customer ecommerce company spanning 15 countries. Built on Snowflake with ADLS as external stage, ingesting CSV, JSON, and Parquet data. Implements Bronze → Silver → Gold layers, CDC with Streams, data quality pipelines, and Tasks and Gold layer views for sales performance, customer segmentation, and product analytics.
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
