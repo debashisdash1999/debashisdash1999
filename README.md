@@ -1,6 +1,7 @@
 # 🙏🏻Greetings, I’m Choudhury Debashis Dash  
 
 💻 **Cloud Data Engineer | ETL / ELT Developer | Data Analytics Enthusiast**  
+🎓 **Snowflake Certified - Data Engineering Professional Certificate**
 📍 India &nbsp;|&nbsp; 🌎 Open to roles across India (OnSite & Remote) and abroad (Remote) &nbsp;|&nbsp; ⚡ Immediately Available 
 
 ---
