@@ -4,6 +4,11 @@
 🎓 **Snowflake Certified - Data Engineering Professional Certificate**
 📍 India &nbsp;|&nbsp; 🌎 Open to roles across India (OnSite & Remote) and abroad (Remote) &nbsp;|&nbsp; ⚡ Immediately Available 
 
+# 🙏🏻 Greetings, I’m Choudhury Debashis Dash  
+
+💻 **Cloud Data Engineer | ETL / ELT Developer | Data Analytics Enthusiast**  
+🎓 <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" width="22"/> **Data Engineering Professional Certificate by Snowflake**  
+📍 India &nbsp;|&nbsp; 🌎 Open to roles across India (OnSite & Remote) and abroad (Remote) &nbsp;|&nbsp; ⚡ Immediately Available  
 ---
 
 ## 🚀 What I Do
