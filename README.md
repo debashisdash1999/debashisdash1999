@@ -4,7 +4,7 @@
 
 **<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" width="45"/> Snowflake Certified - Data Engineering Professional Certificate**
 
-📍 India &nbsp;|&nbsp; 🌎 Open to roles across India (OnSite & Remote) and abroad (Remote) &nbsp;|&nbsp; ⚡ Immediately Available 
+📍 India &nbsp;|&nbsp; 🌎 Open to roles across India (OnSite & Remote) and abroad (Remote) &nbsp;|&nbsp;⚡ Immediately Available 
 
 ---
 
