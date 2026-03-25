@@ -63,9 +63,9 @@ My focus areas:
 
 ---
 
-#### 🔷 [AI-Powered Snowflake Data Pipeline (Cortex Code & Analyst)]([https://github.com/YOUR_REPO_LINK](https://github.com/debashisdash1999/Snowflake-End-to-End-Data-Pipeline-with-Cortex-AI-Dynamic-Tables-Star-Schema-Modeling))
+#### 🔷 [AI-Powered Snowflake Data Pipeline (Cortex Code & Analyst)](https://github.com/debashisdash1999/Snowflake-End-to-End-Data-Pipeline-with-Cortex-AI-Dynamic-Tables-Star-Schema-Modeling)
 
-Built an end-to-end Snowflake data platform integrating AI-assisted development and semantic analytics. Implemented Medallion Architecture (Bronze → Silver → Gold) to process 13+ source files into an analytical Star Schema with SCD Type 2. Leveraged Snowflake Cortex Code for AI-assisted SQL generation and pipeline development, reducing manual effort. Built a semantic model using Cortex Analyst to enable natural language querying on 86K+ sales records, allowing business users to interact with data without writing SQL.
+Built an end-to-end Snowflake data platform integrating AI-assisted development and semantic analytics. Implemented Medallion Architecture (Bronze → Silver → Gold) to process 13+ source files into an analytical Star Schema with SCD Type 2. Leveraged Snowflake Cortex Code for AI-assisted SQL generation, query optimization, and pipeline development, reducing manual effort. Built a semantic model using Cortex Analyst to enable natural language-to-SQL querying on 86K+ sales records, allowing business users to interact with data without writing SQL.
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![Cortex](https://img.shields.io/badge/AI-Cortex%20Code%20%26%20Analyst-blue?style=flat)
