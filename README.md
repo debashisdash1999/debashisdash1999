@@ -1,6 +1,6 @@
 # 🙏🏻Greetings, I’m Choudhury Debashis Dash  
 
-💻 **Cloud Data Engineer | ETL / ELT Developer | Data Analytics Enthusiast**  
+💻 **Data Engineer | Snowflake | ELT / ETL | AI-Driven Data Solutions**
 
 **<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" width="55"/> Snowflake Certified - Data Engineering Professional Certificate**
 
@@ -10,19 +10,26 @@
 
 ## 🚀 What I Do
 
-I design and build data pipelines, cloud warehouses, and BI dashboards that help businesses move from raw data to reliable decisions.
+I design and build data pipelines, cloud warehouses, and AI-driven analytics solutions that help businesses move from raw data to reliable decisions.
 
-Over 3 years, I've worked across two ends of the data stack - engineering pipelines in Snowflake for a real client project (Mercedes-Benz, USA & Canada) at Infosys, and owning the full BI function at Troy Consultancy where I built dashboards that teams actually used daily.
+Over 3 years, I've worked across two ends of the data stack - engineering pipelines in Snowflake for a real client project (Mercedes-Benz, USA & Canada) at Infosys, and owning the full BI function at Troy Consultancy where I built dashboards used for daily decision-making.
 
 My focus areas:
 - **ELT pipeline development** in Snowflake - from raw ingestion through Bronze → Silver → Gold layers
 - **Automation** using Snowpipe, Streams, and Tasks for CDC and scheduled workflows
+- **AI-driven data engineering** using Snowflake Cortex (Code & Analyst) for assisted SQL development and natural language querying
+- **Semantic layer development** to enable business-friendly data access
 - **BI & reporting** with Power BI, connecting to SQL Server, Excel, and web sources
-- **Query & warehouse optimization** - I pay attention to compute costs and performance, not just making things work
+- **Query & warehouse optimization** - focused on performance and cost efficiency
 
 ---
 
 ## 🔧 Tech Stack
+
+### 🤖 AI & Modern Data
+![Snowflake Cortex](https://img.shields.io/badge/Snowflake%20Cortex-AI%20Engine-29B5E8?style=for-the-badge)
+![Semantic Layer](https://img.shields.io/badge/Semantic%20Layer-YAML-blue?style=for-the-badge)
+![NLQ](https://img.shields.io/badge/NLQ-Natural%20Language%20Querying-green?style=for-the-badge)
 
 ### 🗄️ Data Warehousing & Databases
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
@@ -53,6 +60,18 @@ My focus areas:
 ---
 
 ### 🏗️ End-to-End Data Engineering
+
+---
+
+#### 🔷 [AI-Powered Snowflake Data Pipeline (Cortex Code & Analyst)]([https://github.com/YOUR_REPO_LINK](https://github.com/debashisdash1999/Snowflake-End-to-End-Data-Pipeline-with-Cortex-AI-Dynamic-Tables-Star-Schema-Modeling))
+
+Built an end-to-end Snowflake data platform integrating AI-assisted development and semantic analytics. Implemented Medallion Architecture (Bronze → Silver → Gold) to process 13+ source files into an analytical Star Schema with SCD Type 2. Leveraged Snowflake Cortex Code for AI-assisted SQL generation and pipeline development, reducing manual effort. Built a semantic model using Cortex Analyst to enable natural language querying on 86K+ sales records, allowing business users to interact with data without writing SQL.
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Cortex](https://img.shields.io/badge/AI-Cortex%20Code%20%26%20Analyst-blue?style=flat)
+![Semantic Layer](https://img.shields.io/badge/Semantic%20Layer-NLQ-green?style=flat)
+![SCD2](https://img.shields.io/badge/Modeling-SCD%20Type%202-blue?style=flat)
+![Bronze Silver Gold](https://img.shields.io/badge/Architecture-Bronze--Silver--Gold-orange?style=flat)
 
 ---
 
