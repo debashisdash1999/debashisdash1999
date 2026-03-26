@@ -12,7 +12,7 @@
 
 I design and build data pipelines, cloud warehouses, and AI-driven analytics solutions that help businesses move from raw data to reliable decisions.
 
-Over 3 years, I've worked across two ends of the data stack - engineering pipelines in Snowflake for a real client project (Mercedes-Benz, USA & Canada) at Infosys, and owning the full BI function at Troy Consultancy where I built dashboards used for daily decision-making.
+Over 3 years, I've worked across two ends of the data stack - engineering pipelines in Snowflake for a real client project (Mercedes-Benz: USA & Canada) at Infosys, and owning the full BI function at Troy Consultancy where I built dashboards used for daily decision-making.
 
 My focus areas:
 - **ELT pipeline development** in Snowflake - from raw ingestion through Bronze → Silver → Gold layers
