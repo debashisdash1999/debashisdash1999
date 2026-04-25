@@ -146,7 +146,7 @@ Querying and extracting nested JSON data in Snowflake using VARIANT data type an
 
 ---
 
-#### [SQL Data Cleaning Project](https://github.com/debashisdash1999/sql_data_cleaning_proj)
+#### [SQL Data Cleaning Project](https://github.com/debashisdash1999/SQL-Data-Cleaning-Project-Sales-Dataset)
 Real-world SQL data cleaning — handling nulls, duplicates, standardization, and data type corrections.
 
 ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
