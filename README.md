@@ -1,4 +1,4 @@
-# 🙏🏻Greetings, I’m Choudhury Debashis Dash  
+# 🙏🏻Greetings, I’m Choudhury Debashis Dash
 
 💻 **Data Engineer | Snowflake | ELT / ETL | AI-Driven Data Solutions**
 
@@ -6,7 +6,7 @@
 
 **<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="18"/> Microsoft (Professional Certificate) - Career Essentials in Generative AI**
 
-📍 India &nbsp;|&nbsp;🌎 Open to roles across India (OnSite & Remote) and abroad (Remote) &nbsp;|&nbsp;⚡ Immediately Available 
+📍 India &nbsp;|&nbsp;🌎 Open to roles across India (OnSite & Remote) and abroad (Remote) &nbsp;|&nbsp;⚡ Immediately Available
 
 ---
 
@@ -17,6 +17,7 @@ I design and build data pipelines, cloud warehouses, and AI-driven analytics sol
 Over 3 years, I've worked across two ends of the data stack - engineering pipelines in Snowflake for a real client project (Mercedes-Benz: USA & Canada) at Infosys, and owning the full BI function at Troy Consultancy where I built dashboards used for daily decision-making.
 
 My focus areas:
+
 - **ELT pipeline development** in Snowflake - from raw ingestion through Bronze → Silver → Gold layers
 - **Automation** using Snowpipe, Streams, and Tasks for CDC and scheduled workflows
 - **AI-driven data engineering** using Snowflake Cortex (Code & Analyst) for assisted SQL development and natural language querying
@@ -29,11 +30,13 @@ My focus areas:
 ## 🔧 Tech Stack
 
 ### 🤖 AI & Modern Data
+
 ![Snowflake Cortex](https://img.shields.io/badge/Snowflake%20Cortex-AI%20Engine-29B5E8?style=for-the-badge)
 ![Semantic Layer](https://img.shields.io/badge/Semantic%20Layer-YAML-blue?style=for-the-badge)
 ![NLQ](https://img.shields.io/badge/NLQ-Natural%20Language%20Querying-green?style=for-the-badge)
 
 ### 🗄️ Data Warehousing & Databases
+
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Snowflake SQL](https://img.shields.io/badge/Snowflake_SQL-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -41,18 +44,22 @@ My focus areas:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ☁️ Cloud & Storage
+
 ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=azure-data-factory&logoColor=white)
 ![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazon-s3&logoColor=white)
 
 ### 📊 BI & Visualization
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 💻 Programming & Data Processing
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### 🤝 Collaboration
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
@@ -119,6 +126,7 @@ Enterprise-scale retail analytics solution for a 5M+ customer ecommerce company 
 ---
 
 #### [Snowflake Streams & CDC](https://github.com/debashisdash1999/snowflake_proj12_streams)
+
 Change Data Capture implementation (INSERT / UPDATE / DELETE) using Snowflake Streams with AWS S3 integration.
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
@@ -128,6 +136,7 @@ Change Data Capture implementation (INSERT / UPDATE / DELETE) using Snowflake St
 ---
 
 #### [Snowflake Snowpipe — Automated Ingestion](https://github.com/debashisdash1999/snowflake_proj6_snowpipe)
+
 End-to-end automated data ingestion pipeline using Snowpipe — setup, configuration, and event-based triggering.
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
@@ -136,6 +145,7 @@ End-to-end automated data ingestion pipeline using Snowpipe — setup, configura
 ---
 
 #### [Snowflake Semi-Structured Data Handling](https://github.com/debashisdash1999/snowflake_proj5_handling_semi_unstructured_data)
+
 Querying and extracting nested JSON data in Snowflake using VARIANT data type and FLATTEN function.
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
@@ -149,6 +159,7 @@ Querying and extracting nested JSON data in Snowflake using VARIANT data type an
 ---
 
 #### [SQL Data Cleaning Project](https://github.com/debashisdash1999/SQL-Data-Cleaning-Project-Sales-Dataset)
+
 Real-world SQL data cleaning — handling nulls, duplicates, standardization, and data type corrections.
 
 ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
@@ -157,6 +168,7 @@ Real-world SQL data cleaning — handling nulls, duplicates, standardization, an
 ---
 
 #### [SQL Major League Baseball Analysis](https://github.com/debashisdash1999/sql_major_league_baseball_proj)
+
 Advanced SQL analytics on MLB player, team, and school data — window functions, aggregations, and performance insights.
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white)
@@ -165,6 +177,7 @@ Advanced SQL analytics on MLB player, team, and school data — window functions
 ---
 
 #### [SQL Restaurant Order Analysis](https://github.com/debashisdash1999/sql_restaurant_order_analysis)
+
 Analyzing restaurant menu and order data to surface popular dishes, pricing trends, and customer spending patterns.
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white)
@@ -172,11 +185,12 @@ Analyzing restaurant menu and order data to surface popular dishes, pricing tren
 
 ---
 
-### 🐍 Python — Data Cleaning Projects
+### 🐍 Python pandas — Data Cleaning Projects
 
 ---
 
 #### [Python Data Cleaning — Airbnb Dataset](https://github.com/debashisdash1999/Data-Cleaning-with-Python-Pandas-Real-World-Airbnb-Dataset)
+
 Real-world Airbnb dataset cleaned using Pandas — handling missing values, outliers, type conversions, and column normalization.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -186,6 +200,7 @@ Real-world Airbnb dataset cleaned using Pandas — handling missing values, outl
 ---
 
 #### [Python Data Cleaning — Amazon Dataset](https://github.com/debashisdash1999/real-world-amazon-data-cleaning_pandas)
+
 Amazon product data cleaned and preprocessed using Pandas — structured for downstream analytics or ML use.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -199,6 +214,7 @@ Amazon product data cleaned and preprocessed using Pandas — structured for dow
 ---
 
 #### [Power BI — HR Data Analytics Report](https://github.com/debashisdash1999/Power_BI_HR_Data_Analytics_Report)
+
 Interactive HR dashboard covering employee headcount, attrition analysis, departmental performance, and workforce KPIs.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -208,6 +224,7 @@ Interactive HR dashboard covering employee headcount, attrition analysis, depart
 ---
 
 #### [Power BI — Personality Survey Report](https://github.com/debashisdash1999/Power_BI_Personality_Survey_Report)
+
 Visual analysis of personality survey data with dynamic slicers, trait distributions, and behavioral pattern breakdowns.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -216,13 +233,11 @@ Visual analysis of personality survey data with dynamic slicers, trait distribut
 
 ---
 
-## 📫 Contact Me  
+## 📫 Contact Me
 
-- 📧 Email: **debashisdash1999@gmail.com**  
-- 💼 LinkedIn: [Choudhury Debashis Dash](https://www.linkedin.com/in/choudhury-debashis-dash-574661177)  
+- 📧 Email: **debashisdash1999@gmail.com**
+- 💼 LinkedIn: [Choudhury Debashis Dash](https://www.linkedin.com/in/choudhury-debashis-dash-574661177)
 
 ---
 
-✨ *Always learning, always building — data tells the story, I make it clear.*  
-
-
+✨ _Always learning, always building — data tells the story, I make it clear._
