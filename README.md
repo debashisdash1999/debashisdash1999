@@ -14,16 +14,19 @@
 
 I design and build data pipelines, cloud warehouses, and AI-driven analytics solutions that help businesses move from raw data to reliable decisions.
 
-Over 3 years, I've worked across two ends of the data stack - engineering pipelines in Snowflake for a real client project (Mercedes-Benz: USA & Canada) at Infosys, and owning the full BI function at Troy Consultancy where I built dashboards used for daily decision-making.
+Over 3 years, I've worked across two ends of the data stack - engineering production-grade ELT pipelines in Snowflake for a real client project (Mercedes-Benz: USA & Canada) at Infosys, and owning the full BI function at Troy Consultancy where I built dashboards used for daily decision-making.
 
 My focus areas:
 
-- **ELT pipeline development** in Snowflake - from raw ingestion through Bronze → Silver → Gold layers
-- **Automation** using Snowpipe, Streams, and Tasks for CDC and scheduled workflows
-- **AI-driven data engineering** using Snowflake Cortex (Code & Analyst) for assisted SQL development and natural language querying
-- **Semantic layer development** to enable business-friendly data access
-- **BI & reporting** with Power BI, connecting to SQL Server, Excel, and web sources
-- **Query & warehouse optimization** - focused on performance and cost efficiency
+- **ELT pipeline development** in Snowflake - multi-layered ingestion through Bronze → Silver → Gold using ADF, Snowpipe, and structured/semi-structured formats (CSV, JSON, Parquet)
+- **Dimensional data modeling** - Star Schema design with SCD Type 2 for historical tracking across large-scale analytical datasets
+- **CDC & automation** using Snowflake Streams and Tasks for incremental load orchestration and change tracking across multi-layered tables
+- **AI-assisted development** using Snowflake Cortex Code for SQL generation, DDL scripting, and pipeline development - cutting manual coding effort significantly
+- **Natural language querying** via Cortex Analyst with a YAML-based semantic model, enabling business users to query 86K+ records without writing SQL
+- **Semantic layer development** - defining measures, dimensions, and relationships in Cortex Analyst's semantic model for governed, business-friendly data access
+- **Cloud storage & integration** - ingesting data from ADLS and AWS S3 into Snowflake across structured and semi-structured formats
+- **BI & reporting** with Power BI, integrating SQL Server, Excel, and web sources into interactive dashboards for HR and management teams
+- **Query & warehouse optimization** - using Snowflake Account Usage views to monitor execution, resource utilization, and reduce compute costs
 
 ---
 
