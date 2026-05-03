@@ -3,6 +3,7 @@
 💻 **Data Engineer | Snowflake | ELT / ETL | AI-Driven Data Solutions**
 
 **<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" width="55"/> Snowflake Certified - Data Engineering Professional Certificate**
+
 **<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="18"/> Microsoft (Professional Certificate) - Career Essentials in Generative AI**
 
 📍 India &nbsp;|&nbsp;🌎 Open to roles across India (OnSite & Remote) and abroad (Remote) &nbsp;|&nbsp;⚡ Immediately Available 
