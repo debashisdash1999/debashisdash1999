@@ -6,7 +6,6 @@
 
 [![Email](https://img.shields.io/badge/debashisdash1999%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:debashisdash1999@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/choudhury-debashis-dash-574661177)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/debashisdash1999)
 
 ---
 
@@ -28,25 +27,30 @@ My current focus is on AI-assisted data development using Snowflake Cortex — s
 ## Tech Stack
 
 ### AI & Modern Data
+
 ![Snowflake Cortex](https://img.shields.io/badge/Snowflake%20Cortex-AI%20Engine-29B5E8?style=flat-square)
 ![Cortex Analyst](https://img.shields.io/badge/Cortex%20Analyst-NLQ-29B5E8?style=flat-square)
 ![Semantic Layer](https://img.shields.io/badge/Semantic%20Layer-YAML-blue?style=flat-square)
 
 ### Data Warehousing & Databases
+
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Cloud & Storage
+
 ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=flat-square&logo=amazon-s3&logoColor=white)
 
 ### BI & Reporting
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ### Programming
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
@@ -54,19 +58,19 @@ My current focus is on AI-assisted data development using Snowflake Cortex — s
 
 ## What I Work On
 
-| Area | Details |
-|---|---|
-| **ELT Pipelines** | Multi-layer ingestion through Bronze → Silver → Gold using ADF, Snowpipe, CDC |
-| **Data Modeling** | Star Schema design with SCD Type 2 for historical tracking at scale |
-| **AI-Assisted Dev** | Cortex Code for SQL generation, DDL scripting, and pipeline development |
-| **Semantic Layer** | Cortex Analyst YAML models enabling NL querying over 86K+ records |
-| **Cloud Integration** | Ingesting CSV, JSON, Parquet from ADLS and AWS S3 into Snowflake |
-| **BI & Reporting** | Power BI dashboards integrating SQL Server, Excel, and web sources |
-| **Optimization** | Warehouse monitoring via Account Usage views, query tuning, compute cost reduction |
+| Area                  | Details                                                                            |
+| --------------------- | ---------------------------------------------------------------------------------- |
+| **ELT Pipelines**     | Multi-layer ingestion through Bronze → Silver → Gold using ADF, Snowpipe, CDC      |
+| **Data Modeling**     | Star Schema design with SCD Type 2 for historical tracking at scale                |
+| **AI-Assisted Dev**   | Cortex Code for SQL generation, DDL scripting, and pipeline development            |
+| **Semantic Layer**    | Cortex Analyst YAML models enabling NL querying over 86K+ records                  |
+| **Cloud Integration** | Ingesting CSV, JSON, Parquet from ADLS and AWS S3 into Snowflake                   |
+| **BI & Reporting**    | Power BI dashboards integrating SQL Server, Excel, and web sources                 |
+| **Optimization**      | Warehouse monitoring via Account Usage views, query tuning, compute cost reduction |
 
 ---
 
-## Projects
+## Projects (Check "Repository" section for al projects)
 
 ### End-to-End Data Engineering
 
@@ -121,50 +125,39 @@ Enterprise-scale retail analytics for a 5M+ customer ecommerce company across 15
 
 ### Snowflake Concept Projects
 
-| Project | Focus |
-|---|---|
-| [Snowflake Streams & CDC](https://github.com/debashisdash1999/snowflake_proj12_streams) | INSERT / UPDATE / DELETE tracking using Streams with AWS S3 |
-| [Snowflake Snowpipe — Automated Ingestion](https://github.com/debashisdash1999/snowflake_proj6_snowpipe) | End-to-end Snowpipe setup, configuration, and event-based triggering |
-| [Snowflake Semi-Structured Data Handling](https://github.com/debashisdash1999/snowflake_proj5_handling_semi_unstructured_data) | Querying nested JSON using VARIANT and FLATTEN |
+| Project                                                                                                                        | Focus                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
+| [Snowflake Streams & CDC](https://github.com/debashisdash1999/snowflake_proj12_streams)                                        | INSERT / UPDATE / DELETE tracking using Streams with AWS S3          |
+| [Snowflake Snowpipe — Automated Ingestion](https://github.com/debashisdash1999/snowflake_proj6_snowpipe)                       | End-to-end Snowpipe setup, configuration, and event-based triggering |
+| [Snowflake Semi-Structured Data Handling](https://github.com/debashisdash1999/snowflake_proj5_handling_semi_unstructured_data) | Querying nested JSON using VARIANT and FLATTEN                       |
 
 ---
 
 ### SQL Projects
 
-| Project | Focus |
-|---|---|
+| Project                                                                                          | Focus                                                                   |
+| ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
 | [SQL Data Cleaning](https://github.com/debashisdash1999/SQL-Data-Cleaning-Project-Sales-Dataset) | Nulls, duplicates, standardization, type corrections on real-world data |
-| [MLB Analysis](https://github.com/debashisdash1999/sql_major_league_baseball_proj) | Window functions, aggregations, and performance insights on MLB data |
-| [Restaurant Order Analysis](https://github.com/debashisdash1999/sql_restaurant_order_analysis) | Menu and order data analysis for pricing trends and spending patterns |
+| [MLB Analysis](https://github.com/debashisdash1999/sql_major_league_baseball_proj)               | Window functions, aggregations, and performance insights on MLB data    |
+| [Restaurant Order Analysis](https://github.com/debashisdash1999/sql_restaurant_order_analysis)   | Menu and order data analysis for pricing trends and spending patterns   |
 
 ---
 
 ### Python / Pandas
 
-| Project | Focus |
-|---|---|
+| Project                                                                                                                   | Focus                                                            |
+| ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | [Airbnb Dataset Cleaning](https://github.com/debashisdash1999/Data-Cleaning-with-Python-Pandas-Real-World-Airbnb-Dataset) | Missing values, outliers, type conversions, column normalization |
-| [Amazon Dataset Cleaning](https://github.com/debashisdash1999/real-world-amazon-data-cleaning_pandas) | Product data preprocessing structured for analytics or ML |
+| [Amazon Dataset Cleaning](https://github.com/debashisdash1999/real-world-amazon-data-cleaning_pandas)                     | Product data preprocessing structured for analytics or ML        |
 
 ---
 
 ### Power BI
 
-| Project | Focus |
-|---|---|
-| [HR Data Analytics Report](https://github.com/debashisdash1999/Power_BI_HR_Data_Analytics_Report) | Headcount, attrition, departmental performance, workforce KPIs |
-| [Personality Survey Report](https://github.com/debashisdash1999/Power_BI_Personality_Survey_Report) | Trait distributions and behavioral patterns from survey data |
-
----
-
-## Certifications & Courses
-
-| Certification | Issuer |
-|---|---|---|
-| [Data Engineering Professional Certificate](https://achieve.snowflake.com/) | Snowflake |
-| [Career Essentials in Generative AI](https://www.linkedin.com/learning/) | Microsoft |
-| Power BI — Business Intelligence | Udemy | — |
-| SQL for Data Analysis — Advanced SQL | Udemy | — |
+| Project                                                                                             | Focus                                                          |
+| --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| [HR Data Analytics Report](https://github.com/debashisdash1999/Power_BI_HR_Data_Analytics_Report)   | Headcount, attrition, departmental performance, workforce KPIs |
+| [Personality Survey Report](https://github.com/debashisdash1999/Power_BI_Personality_Survey_Report) | Trait distributions and behavioral patterns from survey data   |
 
 ---
 
