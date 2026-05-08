@@ -70,7 +70,9 @@ My current focus is on AI-assisted data development using Snowflake Cortex — s
 
 ---
 
-## Projects (Check "Repository" section for al projects)
+## Projects
+
+> Check the **Repositories** section for all projects.
 
 ### End-to-End Data Engineering
 
