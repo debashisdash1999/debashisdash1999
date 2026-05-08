@@ -2,10 +2,9 @@
 
 💻 **Data Engineer | Snowflake | ELT / ETL | AI-Driven Data Solutions**
 
-**<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" width="55"/> Snowflake Certified - Data Engineering Professional Certificate**
+**<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" width="60"/> Snowflake Certified - Data Engineering Professional Certificate**
 
 **<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="16"/> Microsoft (Professional Certificate) - Career Essentials in Generative AI**
-
 
 ---
 
