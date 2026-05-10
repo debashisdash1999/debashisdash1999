@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=29B5E8&center=true&vCenter=true&width=700&lines=Snowflake+Certified+Data+Engineering+Professional+Certificate;3+Years+of+Production+Data+Engineering;Mercedes-Benz+USA+%26+Canada+%7C+Infosys;Building+AI-Powered+Data+Platforms)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=29B5E8&center=true&vCenter=true&width=700&lines=Snowflake+Certified+Data+Engineering+Professional;3+Years+of+Production+Data+Engineering;Mercedes-Benz+USA+%26+Canada+%7C+Infosys;Building+AI-Powered+Data+Platforms)](https://git.io/typing-svg)
 
 <br/>
 
@@ -179,17 +179,12 @@ Built on Snowflake with ADLS as external stage, ingesting CSV, JSON, and Parquet
 | ----- | ------------- | --------- | ---- |
 | ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) | [Data Engineering Professional Certificate](https://achieve.snowflake.com/) | Snowflake | Feb 2026 |
 | ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) | [Career Essentials in Generative AI](https://www.linkedin.com/learning/) | Microsoft | Mar 2026 |
-| ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | Power BI — Business Intelligence | Udemy | — |
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | SQL for Data Analysis — Advanced SQL Querying | Udemy | — |
+| ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | Power BI — Business Intelligence | Udemy | Mar 2025 |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | SQL for Data Analysis — Advanced SQL Querying | Udemy | Mar 2025 |
 
 ---
 
 <div align="center">
-
-### 🤝 Let's Connect
-
-[![Email](https://img.shields.io/badge/debashisdash1999%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debashisdash1999@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/choudhury-debashis-dash-574661177)
 
 <br/>
 
