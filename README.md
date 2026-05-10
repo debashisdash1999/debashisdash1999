@@ -13,11 +13,8 @@
 
 <br/>
 
-[![Snowflake Certified](https://img.shields.io/badge/Snowflake_Certified-Data_Engineering_Professional-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://achieve.snowflake.
-[![Microsoft Professional Certificate](https://img.shields.io/badge/Microsoft_Certified-Career_Essentials_in_Gen_AI-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://www.linkedin.com/learning/)
-
-
-
+[![Snowflake Certified](https://img.shields.io/badge/Snowflake_Certified-Data_Engineering_Professional-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://achieve.snowflake.com/)
+[![Microsoft Certified](https://img.shields.io/badge/Microsoft_Certified-Career_Essentials_in_Gen_AI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.linkedin.com/learning/)
 
 </div>
 
