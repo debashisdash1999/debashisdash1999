@@ -24,7 +24,6 @@
 
 ```text
 Data Engineer · Snowflake · ELT/ETL · AI-Driven Data Solutions
-
 ```
 
 I've worked at both ends of the data stack — building **production-grade ELT pipelines in Snowflake** for a real client project (Mercedes-Benz USA & Canada) at Infosys, and owning the **full BI function** at Troy Consultancy where I built dashboards used in daily decision-making.
