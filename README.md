@@ -10,7 +10,6 @@
 
 [![Email](https://img.shields.io/badge/debashisdash1999%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debashisdash1999@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/choudhury-debashis-dash-574661177)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debashisdash1999)
 
 <br/>
 
@@ -76,22 +75,6 @@ My current focus is **AI-assisted data development using Snowflake Cortex** — 
 ![CDC](https://img.shields.io/badge/CDC-4A90D9?style=flat-square)
 ![ELT Pipelines](https://img.shields.io/badge/ELT_Pipelines-4A90D9?style=flat-square)
 ![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-4A90D9?style=flat-square)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=debashisdash1999&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=ffffff"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debashisdash1999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&text_color=ffffff"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=debashisdash1999&theme=tokyonight&hide_border=true&background=0D1117&ring=29B5E8&fire=FF6B35&currStreakLabel=29B5E8" />
-
-</div>
 
 ---
 
