@@ -34,7 +34,6 @@ My current focus is **AI-assisted data development using Snowflake Cortex** — 
 - ❄️ **Snowflake Certified** — Data Engineering Professional (Feb 2026)
 - 🤖 Hands-on with **Snowflake Cortex Code & Cortex Analyst**
 - 🔭 Currently building AI-powered Snowflake data platforms
-- 📫 Reach me at **debashisdash1999@gmail.com**
 
 ---
 
