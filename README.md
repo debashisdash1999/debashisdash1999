@@ -173,17 +173,6 @@ Built on Snowflake with ADLS as external stage, ingesting CSV, JSON, and Parquet
 
 ---
 
-## 🏅 Certifications & Courses
-
-| Badge | Certification | Issued By | Year |
-| ----- | ------------- | --------- | ---- |
-| ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) | [Data Engineering Professional Certificate](https://achieve.snowflake.com/) | Snowflake | Feb 2026 |
-| ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) | [Career Essentials in Generative AI](https://www.linkedin.com/learning/) | Microsoft | Mar 2026 |
-| ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | Power BI — Business Intelligence | Udemy | Mar 2025 |
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | SQL for Data Analysis — Advanced SQL Querying | Udemy | Mar 2025 |
-
----
-
 <div align="center">
 
 <br/>
