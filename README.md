@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-Data Engineer with 3+ years of production experience — currently working at the intersection of **enterprise Azure data engineering** and **utility-scale analytics** at Tata Power.
+Data Engineer with 3+ years of production experience — currently working at the intersection of **enterprise Azure data engineering** and **utility-scale analytics** at TPWODL.
 
 As a **Lead Engineer at TP Western Odisha Distribution Limited** (a joint venture of Tata Power and the Government of Odisha), I work on enterprise-grade data and analytics solutions that support power distribution operations across multiple Tata Power discom entities. My primary focus right now is **SAP BW to Azure data modernization** — migrating legacy SAP reporting infrastructure onto a modern Azure stack using ADF, Databricks, and Spark, while building Power BI solutions on top for business reporting.
 
