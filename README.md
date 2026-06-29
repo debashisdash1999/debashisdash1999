@@ -243,9 +243,9 @@ Built on Snowflake with ADLS as external stage, ingesting CSV, JSON, and Parquet
 
 ---
 
-## 🏅 Certifications
+## 🏅 Certifications & Courses
 
-| Certification & Courses                   | Issuer               | Year |
+| Name                                      | Issuer               | Year |
 | ----------------------------------------- | -------------------- | ---- |
 | Azure Essentials Professional Certificate | Microsoft & LinkedIn | 2026 |
 | Data Engineering Professional Certificate | Snowflake & LinkedIn | 2026 |
