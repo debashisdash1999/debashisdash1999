@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:FF3621,100:0066CC&height=220&section=header&text=Choudhury%20Debashis%20Dash&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Lead%20Data%20Engineer%20%7C%20Azure%20Databricks%20%7C%20ADF%20%7C%20Apache%20Spark%20%7C%20Power%20BI%20%7C%20Snowflake&descAlignY=66&descSize=15&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:FF3621,100:0066CC&height=220&section=header&text=Choudhury%20Debashis%20Dash&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Lead%20Data%20Engineer%20%7C%20Azure%20Databricks%20%7C%20Azure%20Data%20Factory%20%7C%20Py%20Spark%20%7C%20Power%20BI%20%7C%20Snowflake&descAlignY=66&descSize=15&animation=fadeIn" width="100%" />
 
 <br/>
 
