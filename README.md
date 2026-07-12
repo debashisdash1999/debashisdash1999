@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0078D4&center=true&vCenter=true&width=800&lines=Lead+Engineer+%40+TPWODL+%E2%80%94+Tata+Power+%7C+Govt.+of+Odisha;SAP+BW+%E2%86%92+Azure+Data+Modernization+%7C+Enterprise+Analytics;Azure+Databricks+%7C+ADF+%7C+Py+Spark+%7C+Power+BI;3%2B+Years+of+Production+Data+Engineering;Snowflake+Certified+%E2%80%94+Data+Engineering+Professional)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0078D4&center=true&vCenter=true&width=800&lines=Lead+Engineer+%40+TPWODL+%E2%80%94+Tata+Power+%7C+Govt.+of+Odisha;SAP+BW+%E2%86%92+Azure+Data+Modernization+%7C+Enterprise+Analytics;Azure+Databricks+%7C+ADF+%7C+PySpark+%7C+Power+BI;3%2B+Years+of+Production+Data+Engineering;Snowflake+Certified+%E2%80%94+Data+Engineering+Professional)](https://git.io/typing-svg)
 
 <br/>
 
